@@ -11,7 +11,7 @@ Tarefa na sala:
 
   * Regras para o post:
   
-    * O arquivo deve ser da seguinte maneira: data-nome-sobrenome-email**.md**
+    * O arquivo deve ser da seguinte maneira: data-app-apk-nome-sobrenome-email.md 
     * O conteúdo do `post` deve conter H1 nome e sobrenome, um parágrafo dizendo sobre seu app; H2 com seu repositório PESSOAL no github e um paragráfo com o link do repositório. 
     * Este artigo pode ser modificado a qualquer momento por voce acrescentando e removendo informações. Cada alteração deve conter uma descrição no commit.
     
