@@ -11,8 +11,8 @@ layout: default
 
 <h2> Curso Desenvolvedor de Aplicativos para Android </h2>
 Requisitos: Ensino Médio Completo   
-Realização: Abril-Junho 2023   
-Professor: Jario       
+Realização: SEDET GDF - QUALIFICADF/PRAXIS   
+Ministrante: Jario       
       
          
             
