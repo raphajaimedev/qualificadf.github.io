@@ -9,10 +9,11 @@ layout: default
 
 
 
-<h2> Curso Desenvolvedor de Aplicativos para Android </h2>
+## Curso Desenvolvedor de Aplicativos para Android 
 Requisitos: Ensino Médio Completo   
 Realização: SEDET GDF - QUALIFICADF/PRAXIS   
 Ministrante: Jario       
+URL: <https://dev.sheet.pt>
       
          
             
