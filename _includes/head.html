@@ -11,11 +11,17 @@
   {%- endif -%}
 
   {%- include custom-head.html -%}
-   <script>
+<script>
+  if (typeof navigator.serviceWorker !== 'undefined') {
+    navigator.serviceWorker.register('assets/js/sw.js')
+  }
+</script>
+  
+ <!-- <script>
       if ('serviceWorker' in navigator) {
         window.addEventListener('load', async () => {
           const registration = await navigator.serviceWorker.register(
-            'sw.js',
+            'assets/js/sw.js',
           );
           console.log(
             'Service worker registered for scope',
@@ -23,5 +29,5 @@
           );
         });
       }
-    </script>
+    </script> // -->
 </head>
