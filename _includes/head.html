@@ -2,8 +2,7 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="manifest" href="manifest.json" />
-   <script src="assets/js/bfprt.js" defer></script>
+  <link rel="manifest" href="manifest.json" />  
   {%- seo -%}
   <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
   {%- feed_meta -%}
@@ -12,11 +11,7 @@
   {%- endif -%}
 
   {%- include custom-head.html -%}
-<script>
-  if (typeof navigator.serviceWorker !== 'undefined') {
-    navigator.serviceWorker.register('assets/js/sw.js')
-  }
-</script>
+
   
  <!-- <script>
       if ('serviceWorker' in navigator) {
