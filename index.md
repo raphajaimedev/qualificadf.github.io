@@ -1,20 +1,17 @@
 ---
 layout: default
 ---
-
+<p>
 <img class="center" src="/assets/logo.png" width="100%" align="center" title="Android" alt="Aplicativos para Android" />  
-     
+</p>
 
 
+> Requisitos: Ensino Médio Completo      
+> Realização: SEDET GDF - QUALIFICADF/PRAXIS      
+> Ministrante: Jario         
+> URL: <https://dev.sheet.pt>   
 
 
-
-**Curso Desenvolvedor de Aplicativos para Android**    
-Requisitos: Ensino Médio Completo      
-Realização: SEDET GDF - QUALIFICADF/PRAXIS      
-Ministrante: Jario         
-URL: <https://dev.sheet.pt>   
-      
          
               
         
