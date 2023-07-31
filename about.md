@@ -43,7 +43,7 @@ Comunique com o professor por aqui. [CONTATO](https://github.com/jario/jario.git
 * FORMATURA Terça-feira `06/06/2023`
 
 ## Grupo Whatsapp da turma
-Link do grupo Whatsapp Android click aqui par [ENTRAR ](https://chat.whatsapp.com/JYr1PDcwQ1T9prsEXaAXsW)
+<!--// Link do grupo Whatsapp Android click aqui par [ENTRAR ](https://chat.whatsapp.com/JYr1PDcwQ1T9prsEXaAXsW) //-->
 
 
 ##### Informações sobre o professor: 
