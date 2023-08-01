@@ -1,4 +1,4 @@
----
+å---
 layout: post
 title: Android 2 2023
 date: 2023-07-31 19:00:00 -0300
@@ -11,7 +11,7 @@ Aqui exponho algumas orientações importantes para comerçamos:
 
 1. Tenha sua conta do **GMAIL** atualizada, ou crie uma para você.
 
-2. Entre no **grupo de WhatsApp** da turma, com próprosito de tratar de assuntos referentes ao curso.
+2. Entre no **grupo de WhatsApp** da turma, com próprosito de tratar de assuntos referentes ao curso.    <https://chat.whatsapp.com/Gjcd3nAZP8WLTLX5jBAUsW>
    
 3. Reserve um tempo para se programar para esta nova empreitada, CONCLUIR O CURSO DESENV APP ANDROID. Então, pense na logística pessoal para vir para as aulas e voltar para sua casa, com paz e satisfação. Lembre-se nesta versão de oferta QUALIFICADF, estâo previstos alguns encontros aos sábados.
    
