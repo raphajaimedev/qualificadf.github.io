@@ -9,10 +9,6 @@ Baixe o APP do curso para ficar atualizado das tarefas, atividades e informaçõ
 
 <https://jario.github.io/app-qualificadf_v0.0.1-2023.apk>
 
-ou
-
-[Aplicativo Android](https://github.com/jario/jario.github.io/blob/master/app-qualificadf_v0.0.1-2023.apk)
-
 ### Links importantes
 
 * **Apostila OFICIAL Praxis** [click download](/Desenvolvedor_Aplicativo_Android_PRAXIS_2023.pdf)   
@@ -20,14 +16,12 @@ ou
 
 ## IDE´s Plataformas de desenvolvimento
 
-1. AMBIENTE DE CRIAÇÃO APPInventor: [**APPInventor MIT**](https://appinventor.mit.edu/)
-
-2. Android Studio **DOWNLOAD todas as Versões**: [https://developer.android.com/studio/archive?hl=pt-br](https://developer.android.com/studio/archive?hl=pt-br)   
+1. Android Studio **DOWNLOAD todas as Versões**: [https://developer.android.com/studio/archive?hl=pt-br](https://developer.android.com/studio/archive?hl=pt-br)   
 Baixe a mais ATUAL, instale com acelerador de VM.
 
 3. **Notepad++** editor de texto puro. <https://notepad-plus-plus.org/downloads/>
 
-4. Também é salutar instalar o [Visual Studio Code](https://code.visualstudio.com/download) e [Bluefish](https://bluefish.openoffice.nl/download.html) 
+4. Também é salutar instalar o [Visual Studio Code](https://code.visualstudio.com/download) e HTMLTrack
 
 ## Antes de começar:
 
@@ -39,8 +33,8 @@ Baixe a mais ATUAL, instale com acelerador de VM.
 Comunique com o professor por aqui. [CONTATO](https://github.com/jario/jario.github.io/issues)
 
 ## Datas Importantes
-* FIM DO CURSO: Segunda-feira  `05/06/2023`
-* FORMATURA Terça-feira `06/06/2023`
+* FIM DO CURSO: Segunda-feira  `2023`
+* FORMATURA Terça-feira `2023`
 
 ## Grupo Whatsapp da turma
 <!--// Link do grupo Whatsapp Android click aqui par [ENTRAR ](https://chat.whatsapp.com/JYr1PDcwQ1T9prsEXaAXsW) //-->
