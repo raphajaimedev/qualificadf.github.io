@@ -17,7 +17,7 @@ Aqui exponho algumas orientações importantes para comerçamos:
    
 4. **Instale o APP** do curso para não perder as atualizações do professor. [DOWNLOAD APP CLICK](https://github.com/jario/qualificadf.github.io/raw/main/APP_dev_v2-2023.apk)
   
-5. Aproveite esta oportunidade crie uma network de colegas que possa contribuir e colaborar com sua nova vida como profissional desenvolvedor de APP mobile
+5. Aproveite esta oportunidade para criar uma *network* de colegas que possa colaborar com sua nova jornada profissional como desenvolvedor de APP mobile
 
 
 Bom começo!
