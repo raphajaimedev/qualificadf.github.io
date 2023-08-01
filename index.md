@@ -19,3 +19,6 @@ layout: default
 
 
 Sobre instalação linux leia em <a rel="friend" href="https://server.sheet.pt" title="server linux">server</a>
+<div style="display: block; text-align: center;"> 
+<img class="center" src="/assets/qualificadf.png" width="100px" align="center" title="QualificaDF" alt="GDF" /> <img class="center" src="/assets/thumb-social.jpg" width="100px" align="center" title="PRAXIS EDUCAÇÃO" alt="praxis" />  
+</div> 
