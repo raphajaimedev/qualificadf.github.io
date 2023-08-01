@@ -5,14 +5,10 @@ layout: default
 <img class="center" src="/assets/logo.png" width="100%" align="center" title="Android" alt="Aplicativos para Android" />  
 </p>
 
-
-> Requisitos: Ensino Médio Completo      
-> Realização: SEDET GDF - QUALIFICADF/PRAXIS      
-> Ministrante: Jario         
+> Ministrante: [**Jario**](https://jario.com.br)         
 > URL: <https://dev.sheet.pt>   
 
-
-         
+        
               
         
 <center> 
@@ -22,5 +18,4 @@ layout: default
 
 
 
-Realização: PRAXIS Educação   
-Leia mais sobre instalação linux em <a rel="friend" href="https://server.sheet.pt" title="server linux">server</a>
+Sobre instalação linux leia em <a rel="friend" href="https://server.sheet.pt" title="server linux">server</a>
