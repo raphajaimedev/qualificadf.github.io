@@ -1,6 +1,5 @@
-# Instruções: Segunda Parte do curso
 
-Vamos iniciar a segunda parte do curso, onde usaremos outras ferramentas "menos complexas" qque o Android Studio e também faremos o uso de outras linguagens diferentes de JAVA.
+Usaremos outras ferramentas "menos complexas" qque o Android Studio e também faremos o uso de outras linguagens diferentes de JAVA.
 
 Programas, linguagens e frameworks recomendados que serão usados para a construção de aplicativos  multiplataformas como Android, iOS etc.
 
