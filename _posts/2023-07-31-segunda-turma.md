@@ -3,13 +3,13 @@ layout: post
 title: Android 2 2023
 date: 2023-07-31 19:00:00 -0300
 ---
-Olá, seja bem vindo!   
+Olá, seja bem vindo senhores alunos! Sejam bem vindos   
 
-**Estamos no segundo curso Desenv App Android de 2023**. 
+**Estamos no segundo curso Desenv App Android de 2021**. 
 
 Aqui exponho algumas orientações importantes para comerçamos:
 
-1. Tenha sua conta do **GMAIL** atualizada, ou crie uma para você.
+1. **GMAIL** atualizada, ou crie uma para você.
 
 2. Entre no **grupo de WhatsApp** da turma, com próprosito de tratar de assuntos referentes ao curso.    <https://chat.whatsapp.com/Gjcd3nAZP8WLTLX5jBAUsW>
    
